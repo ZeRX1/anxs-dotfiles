@@ -27,7 +27,6 @@ function Install_packages() {
 
 	#sudo pacman -S --noconfirm "${basic_packages[@]}"
 	echo Installed $basic_packages
-	done
 	echo Done installing necessary packages
 }
 
